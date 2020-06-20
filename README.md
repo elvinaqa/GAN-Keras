@@ -24,4 +24,7 @@ Phase 2: Train Generator - produce better fake images
     Instability:
         Difficulty of not being able to ascertain model's performance since it already produces sth fake
             Playing with hyperparameters changes the performance of model   
+            
+#Mode Collapse - Generator's output becomes less diverse
+Consistently produces the same image since it already fools discriminator
 ![download (15)](https://user-images.githubusercontent.com/57037068/85209519-c823df00-b349-11ea-9cf7-818df416810c.png)
